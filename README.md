@@ -1,7 +1,7 @@
 # Car Data Analysis
 
 ## Project Overview
-This project explores a car dataset using SQL and Power BI to uncover insights into car prices, mileage, fuel types, seller types, transmission types, and ownership history. The goal is to analyze patterns and trends in the dataset, answer key analytical questions, and visualize findings to provide a clearer understanding of the car market.
+This project looks at a car dataset using SQL and Power BI to dig into things like car prices, mileage, fuel types, seller types, transmission types, and ownership history. The goal is to spot patterns and trends, answer important questions about the data, and visualize the results to give a clearer picture of the car market.
 
 ## Database
 - **Database Name:** `Car_Project`  
