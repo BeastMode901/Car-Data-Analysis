@@ -1,4 +1,4 @@
-## Collins Mensah Car Project Analysis
+## Car Project Analysis
 
 ## Creating the Database
 CREATE database Car_Project;
